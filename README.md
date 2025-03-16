@@ -1,5 +1,1 @@
-This is a README file for my Codedex git commands practice.
-
-Date: 03/15/2025
-
-Location: USA
+This is a README file for my Codedex git commands practice. This has been edited.
